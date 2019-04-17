@@ -40,7 +40,8 @@ function loadPasswdFile(req, res, next) {
           description: record[4],
           homedirectory: record[5],
           shell: record[6] || '',
-          objectclass: 'unixUser'
+          objectclass: 'unixUser',
+          password: 'zheyun'
         }
       };
     }

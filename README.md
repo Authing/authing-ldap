@@ -1,2 +1,2 @@
 # authing-ldap
-LDAP Client for authi.ng
+LDAP Client for [Authi.ng](http://authi.ng)
